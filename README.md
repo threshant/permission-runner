@@ -23,6 +23,9 @@ dependencies {
 
 ## Usage
 
+<img src="https://github.com/threshant/permission-runner/blob/master/explainer.gif" width="200">
+
+
 ```kotlin
  PermissionRunner(this).apply {
             showDescriptionDialogue = true
