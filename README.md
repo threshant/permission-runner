@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 
 ```bash
 dependencies {
-	        implementation 'com.github.threshant:permission-runner:Tag'
+	        implementation 'com.github.threshant:permission-runner:v1.0.0'
 	}
 ```
 
