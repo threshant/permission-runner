@@ -4,10 +4,21 @@ A simple library to request runtime permission in Android
 
 ## Installation
 
-Add the following line to your gradle file
+Add it in your root build.gradle at the end of repositories:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ 
+ Add the dependency
 
 ```bash
-
+dependencies {
+	        implementation 'com.github.threshant:permission-runner:Tag'
+	}
 ```
 
 ## Usage
