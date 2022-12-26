@@ -1,0 +1,8 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_required">Permission required</string>
+    <string name="open_settings">Open settings</string>
+    <string name="kindly_grant_permission">Kindly grant permission</string>
+    <string name="required_permissions">Required permissions</string>
+</resources>
