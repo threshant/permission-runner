@@ -20,12 +20,6 @@ class PermissionRunner(activity: Activity){
         currentActivity.startActivity(intent)
     }
 
-
-
-    fun checkPermissions(){
-
-    }
-
     companion object{
         val PERMISSION_LIST = "permission_list"
         val PERMISSION_CALLBACK = "permission_callback"
